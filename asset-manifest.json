@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NotOurGamesVKApp/static/css/main.94d9d93e.chunk.css",
+    "main.js": "/NotOurGamesVKApp/static/js/main.3b454545.chunk.js",
+    "main.js.map": "/NotOurGamesVKApp/static/js/main.3b454545.chunk.js.map",
+    "runtime-main.js": "/NotOurGamesVKApp/static/js/runtime-main.321f5bc5.js",
+    "runtime-main.js.map": "/NotOurGamesVKApp/static/js/runtime-main.321f5bc5.js.map",
+    "static/css/2.e3a5d69a.chunk.css": "/NotOurGamesVKApp/static/css/2.e3a5d69a.chunk.css",
+    "static/js/2.651ddd01.chunk.js": "/NotOurGamesVKApp/static/js/2.651ddd01.chunk.js",
+    "static/js/2.651ddd01.chunk.js.map": "/NotOurGamesVKApp/static/js/2.651ddd01.chunk.js.map",
+    "index.html": "/NotOurGamesVKApp/index.html",
+    "static/css/2.e3a5d69a.chunk.css.map": "/NotOurGamesVKApp/static/css/2.e3a5d69a.chunk.css.map",
+    "static/css/main.94d9d93e.chunk.css.map": "/NotOurGamesVKApp/static/css/main.94d9d93e.chunk.css.map",
+    "static/js/2.651ddd01.chunk.js.LICENSE.txt": "/NotOurGamesVKApp/static/js/2.651ddd01.chunk.js.LICENSE.txt",
+    "static/media/persik.ae9f0072.png": "/NotOurGamesVKApp/static/media/persik.ae9f0072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.321f5bc5.js",
+    "static/css/2.e3a5d69a.chunk.css",
+    "static/js/2.651ddd01.chunk.js",
+    "static/css/main.94d9d93e.chunk.css",
+    "static/js/main.3b454545.chunk.js"
+  ]
+}

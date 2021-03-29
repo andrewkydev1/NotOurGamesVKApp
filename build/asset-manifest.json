@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NoOurGamesVKApp/static/css/main.94d9d93e.chunk.css",
+    "main.js": "/NoOurGamesVKApp/static/js/main.3dff0daf.chunk.js",
+    "main.js.map": "/NoOurGamesVKApp/static/js/main.3dff0daf.chunk.js.map",
+    "runtime-main.js": "/NoOurGamesVKApp/static/js/runtime-main.b99b0783.js",
+    "runtime-main.js.map": "/NoOurGamesVKApp/static/js/runtime-main.b99b0783.js.map",
+    "static/css/2.e3a5d69a.chunk.css": "/NoOurGamesVKApp/static/css/2.e3a5d69a.chunk.css",
+    "static/js/2.1d50cd6d.chunk.js": "/NoOurGamesVKApp/static/js/2.1d50cd6d.chunk.js",
+    "static/js/2.1d50cd6d.chunk.js.map": "/NoOurGamesVKApp/static/js/2.1d50cd6d.chunk.js.map",
+    "index.html": "/NoOurGamesVKApp/index.html",
+    "static/css/2.e3a5d69a.chunk.css.map": "/NoOurGamesVKApp/static/css/2.e3a5d69a.chunk.css.map",
+    "static/css/main.94d9d93e.chunk.css.map": "/NoOurGamesVKApp/static/css/main.94d9d93e.chunk.css.map",
+    "static/js/2.1d50cd6d.chunk.js.LICENSE.txt": "/NoOurGamesVKApp/static/js/2.1d50cd6d.chunk.js.LICENSE.txt",
+    "static/media/persik.ae9f0072.png": "/NoOurGamesVKApp/static/media/persik.ae9f0072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b99b0783.js",
+    "static/css/2.e3a5d69a.chunk.css",
+    "static/js/2.1d50cd6d.chunk.js",
+    "static/css/main.94d9d93e.chunk.css",
+    "static/js/main.3dff0daf.chunk.js"
+  ]
+}
